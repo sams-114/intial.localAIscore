@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node.js dependencies (if you use npm later)
+node_modules/
+
+# Build / dist folders
+dist/
+build/
+
+# Environment variables (if you add API keys later)
+.env
